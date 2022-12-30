@@ -77,7 +77,6 @@ To test functionality please provide example text in the body between quotes. No
     "faculty":"",
     "semester":
 }
-
 ```
 For updating include id in body.
 
