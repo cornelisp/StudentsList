@@ -1,4 +1,4 @@
-# Spring Boot Restful CRUD API.
+# Students list
 This is a maven build RESTful CRUD API using Spring Boot, MySQL, JPA, and Hibernate. It allows you to perform basic create, update, read and delete operations.
 
 ## Prerequisites
