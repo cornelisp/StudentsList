@@ -33,6 +33,8 @@ Run the application using
 mvn spring-boot:run
 ```
 
+Note: remeber to set up your database first and edit application.properties file.
+
 ## Endpoints
 
 ### GET /students
